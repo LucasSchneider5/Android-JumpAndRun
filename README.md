@@ -4,4 +4,4 @@
 
 *Gameplay*
 
-![Screenshot](Assets/Bilder/Unbenannt3.PNG?raw=true "Gameplay")
+![Screenshot](Assets/Bilder/ss.PNG?raw=true "Gameplay")
